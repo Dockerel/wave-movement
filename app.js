@@ -144,4 +144,5 @@ class App {
 
 window.onload = () => {
   new App();
+  // 22.12.21
 };
